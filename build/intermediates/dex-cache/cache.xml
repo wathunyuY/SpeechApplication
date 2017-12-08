@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpcore_4b8cfe19314b7ee6e9e90b739496343c86594b83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\.android\build-cache\af136fc4b4fd8cde927562987495a7478e7fd936\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_844b17ef0348f13478a9461298dd44abb66990ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7018a1b441a5538fcb9f59664d987101cc93429">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_70e1189cf8b1eb07c105d68ffddce21cb8506c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\.android\build-cache\9ae3c4651fd05bbb993605ad9c3bb5c8bd2bc7b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cc8307c6e08ab7bda17d8f3cca154feaa654c1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_49a65d25a45dfda20d3fda1ddf380485b0e40f27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\.android\build-cache\6c4ec373a6c25f2cbdefb934482275e1ab7d4dc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f241f94fd7ba706a686aa8722216576aa3114b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_632205b4b8830c4a3fb3ee4c1e857d56b3106a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\.android\build-cache\af136fc4b4fd8cde927562987495a7478e7fd936\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_4ab290da483a913238ae9bd7c14fb712c38b7eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wathunyu.y\.android\build-cache\ddcd08a012673f6b5f6dc7a5e54d3dd62df572c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Wathunyu.y\AndroidStudioProjects\SpeechApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6c11b5b38ceed55034ce8cc11ad7e8706afebbd\classes.dex" />
+    </item>
+
+</items>

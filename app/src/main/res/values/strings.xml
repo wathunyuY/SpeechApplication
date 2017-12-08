@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Siri</string>
+    <string name="URLs">http://180.183.249.120:501/ktcfoodsop</string>
+    <string name="LOCAL_URL">http://192.168.1.36:8070/waqaf/index.php</string>
+</resources>
